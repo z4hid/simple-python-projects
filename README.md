@@ -7,3 +7,4 @@ This is a collection of some simple python projects. They are:
 5. [Hangman](https://github.com/zahidhasanshuvo/simple-python-projects/tree/master/hangman)
 6. [Password Generator](https://github.com/zahidhasanshuvo/simple-python-projects/blob/master/password_generator.py)
 7. [Strong Password Checker](https://github.com/zahidhasanshuvo/simple-python-projects/tree/master/strong_password_checker)
+8. [Prime Number Checker](https://github.com/zahidhasanshuvo/simple-python-projects/blob/master/prime_number_checker.py)
