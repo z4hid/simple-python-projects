@@ -9,3 +9,4 @@ This is a collection of some simple python projects. They are:
 7. [Strong Password Checker](https://github.com/zahidhasanshuvo/simple-python-projects/tree/master/strong_password_checker)
 8. [Prime Number Checker](https://github.com/zahidhasanshuvo/simple-python-projects/blob/master/prime_number_checker.py)
 9. [Reverse String](https://github.com/zahidhasanshuvo/simple-python-projects/blob/master/reverse_string.py)
+10. [Check Palindrome](https://github.com/zahidhasanshuvo/simple-python-projects/blob/master/palindrome.py)
