@@ -3,15 +3,9 @@ print("Number System Counter")
 while True:
     try:
         start = int(input("Enter starting number: "))
-        break
-    except ValueError:
-        print("Please enter an integer value.\n")
-
-
-while True:
-    try:
         amount = int(input("Enter how many numbers to display: "))
         break
+
     except ValueError:
         print("Please enter an integer value.\n")
 
