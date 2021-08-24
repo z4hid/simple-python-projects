@@ -10,3 +10,4 @@ This is a collection of some simple python projects. They are:
 8. [Prime Number Checker](https://github.com/zahidhasanshuvo/simple-python-projects/blob/master/prime_number_checker.py)
 9. [Reverse String](https://github.com/zahidhasanshuvo/simple-python-projects/blob/master/reverse_string.py)
 10. [Check Palindrome](https://github.com/zahidhasanshuvo/simple-python-projects/blob/master/palindrome.py)
+11. [Number System Counter](https://github.com/zahidhasanshuvo/simple-python-projects/blob/master/number_Sytem_counter.py)
